@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Delwer Hossain</h1>
 <h3 align="center">A passionate Front End Developer from Bangladesh</h3>
 
-- 🔭 I’m currently looking for a job as a Front End Developer
+- 🔭 I’m currently looking for a remote job as a Front End Developer
 
 <!-- - 👨‍💻 All of my projects are available at [https://delwer.netlify.app/](https://delwer.netlify.app/) -->
 
