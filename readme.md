@@ -50,7 +50,13 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 <a href="https://www.facebook.com/the.delwer.hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/the.delwer.hossain/" height="30" width="40" /></a>
 <a href="https://www.behance.net/delwerhossain0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="www.behance.net/delwerhossain0" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
+<ul> 
+<li>✅ HTML, CSS, Bootstrap, Tailwind. Then JavaScript, DOM, API, ES6, debugging, devtool, etc.</li> 
+<li>✅ React, React Router, hooks, context api, Tanstack query, recharts, etc.</li> 
+<li>✅ Server side technology like Node, express, mongodb. Build secure API using JWT tokens.</li>
+</ul>
     <p align="left">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
