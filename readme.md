@@ -5,6 +5,10 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://delwer.netlify.app/](https://delwer.netlify.app/) -->
 
+- 👋 Hi, I’m @delwerhossain
+- 👀 I’m interested in learning how things works.
+- 🌱 I’m currently learning coding. 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **delwerhossain006@gmail.com**
 
 <!-- - 📄 Know about my experiences https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view -->
