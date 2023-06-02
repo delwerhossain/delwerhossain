@@ -16,8 +16,8 @@
 
 <h3 align="left">My React Projects:</h3>
 <ul>
-   <li>Live link -  https://client-food-chef.web.app/        Code link - https://github.com/delwerhossain/Treact-Cafe  </li>
-    <li>Live link - https://client-toy-marketplace.web.app/  Code link -  https://github.com/delwerhossain/Proc-Toyz </li>   
+   <li>Live link -  https://client-food-chef.web.app/        Code link - https://github.com/delwerhossain/Treact-Cafe  Duration - 4 days </li>
+    <li>Live link - https://client-toy-marketplace.web.app/  Code link -  https://github.com/delwerhossain/Proc-Toyz Duration - 4 days</li>   
  
 </ul>
 
