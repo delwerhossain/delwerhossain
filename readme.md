@@ -6,8 +6,8 @@
 <!-- - 👨‍💻 All of my projects are available at [https://delwer.netlify.app/](https://delwer.netlify.app/) -->
 
 - 👋 Hi, I’m @delwerhossain
-- 👀 I’m interested in learning how things works.
-- 🌱 I’m currently learning coding. 
+- 👀 I’m interested in learning how things work.
+- 🌱 I’m currently learning to code. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **delwerhossain006@gmail.com**
 - profolio link - https://delwer.netlify.app/
@@ -16,7 +16,7 @@
 
 <h3 align="left">My MERN Stack Projects:</h3>
 <ul>
-   <li>Live link -  https://creative-design-school.web.app/     <br>   Code link - https://github.com/delwerhossain/creative-design-full-stack <br> Duration - 4 days </li>
+   <li>Live link -  https://creative-design-school.web.app/     <br>   Code link - https://github.com/delwerhossain/creative-design-full-stack <br> Duration - 6 days </li>
    <li>Live link -  https://client-food-chef.web.app/     <br>   Code link - https://github.com/delwerhossain/Treact-Cafe <br> Duration - 4 days </li>
     <li>Live link - https://client-toy-marketplace.web.app/  <br> Code link -  https://github.com/delwerhossain/Proc-Toyz <br> Duration - 4 days</li>   
  
@@ -68,9 +68,9 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 
 <h3 align="left">Languages and Tools:</h3>
 <ul> 
-<li>✅ HTML, CSS, Bootstrap, Tailwind. Then JavaScript, DOM, API, ES6, debugging, devtool, etc.</li> 
-<li>✅ React, React Router, hooks, context api, Tanstack query, recharts, etc.</li> 
-<li>✅ Server side technology like Node, express, mongodb. Build secure API using JWT tokens.</li>
+<li>✅ HTML, CSS, Bootstrap, Tailwind. Then JavaScript, DOM, API, ES6, debugging, dev tool, etc.</li> 
+<li>✅ React, React Router, hooks, context API, Tanstack query, recharts, etc.</li> 
+<li>✅ Server-side technology like Node, express, MongoDB. Build secure API using JWT tokens.</li>
 </ul>
     <p align="left">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
