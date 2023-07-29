@@ -72,15 +72,7 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 <li>✅ React, React Router, hooks, context API, Tanstack query, recharts, etc.</li> 
 <li>✅ Server-side technology like Node, express, MongoDB. Build secure API using JWT tokens.</li>
 </ul>
-    <p align="left">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-      </a>
+    <p align="left">     
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -91,7 +83,7 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+          src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
           alt="express"
           width="40"
           height="40"
@@ -153,6 +145,14 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
           height="40"
         />
       </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
+          alt="nextjs"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -200,7 +200,15 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
           width="40"
           height="40"
         />
-      </a>     
+      </a>  
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+          alt="bootstrap"
+          width="40"
+          height="40"
+        />
+      </a> 
     </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delwerhossain&show_icons=true&locale=en&layout=compact" alt="DelwerHossain" /></p>
