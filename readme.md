@@ -7,14 +7,23 @@
 
 - 👋 Hi, I’m @delwerhossain
 - 👀 I’m interested in learning how things work.
-- 🌱 I’m currently learning to code. 
+- 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **delwerhossain006@gmail.com**
 - profolio link - https://delwer.netlify.app/
 
 <!-- - 📄 Know about my experiences https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view -->
 
-<h3 align="left">My MERN Stack Projects:</h3>
+<h3 align="left">NEXT.JS  Projects:</h3>
+<ul>
+   <li>Live link -  <a href="https://github.com/digital-X-part/mediaid/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/137670111?s=200&v=4" height="25" width="30" />Mediaid BD E-commerce</a> </li>
+   <li>Code link - <a href='https://github.com/delwerhossain/creative-design-full-stack' target="blank">Mediaid Git Repo</a>
+</li>
+<li>Duration :  started - 2/07/2023 and currently working</li>
+
+</ul>
+
+<h3 align="left">MERN Stack Projects:</h3>
 <ul>
    <li>Live link -  https://creative-design-school.web.app/     <br>   Code link - https://github.com/delwerhossain/creative-design-full-stack <br> Duration - 6 days </li> <br>
    <li>Live link -  https://client-food-chef.web.app/     <br>   Code link - https://github.com/delwerhossain/Treact-Cafe <br> Duration - 4 days </li> <br>
@@ -22,8 +31,7 @@
  
 </ul>
 
-
-<h3 align="left">My Laravel Projects:</h3>
+<h3 align="left">Laravel Projects:</h3>
 <ul>
    <li>https://sortservice.co.uk   </li>
     <li>https://bristolinsure.com</li>   
@@ -50,7 +58,6 @@
     <li>https://jaboteokhobor.com  (wordpress)</li>   
 </ul>
 
-
 <div style="display: flex;
 flex-direction: column; 
 align-items: center;
@@ -69,7 +76,7 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 <h3 align="left">Languages and Tools:</h3>
 <ul> 
 <li>✅ HTML, CSS, Bootstrap, Tailwind. Then JavaScript, DOM, API, ES6, debugging, dev tool, etc.</li> 
-<li>✅ React, React Router, hooks, context API, Tanstack query, recharts, etc.</li> 
+<li>✅ React , NEXT.JS, React Router, hooks, context API, Tanstack query, recharts, etc.</li> 
 <li>✅ Server-side technology like Node, express, MongoDB. Build secure API using JWT tokens.</li>
 </ul>
     <p align="left">     
