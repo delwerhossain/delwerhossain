@@ -16,8 +16,8 @@
 
 <h3 align="left">NEXT.JS  Projects:</h3>
 <ul>
-   <li>Live link -  <a href="https://github.com/digital-X-part/mediaid/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/137670111?s=200&v=4" height="25" width="30" />Mediaid BD E-commerce</a> </li>
-   <li>Code link - <a href='https://github.com/delwerhossain/creative-design-full-stack' target="blank">Mediaid Git Repo</a>
+   <li>Live link -  <a href="https://mediaid.vercel.app/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/137670111?s=200&v=4" height="25" width="30" />Mediaid BD E-commerce</a> </li>
+   <li>Code link - <a href='https://github.com/Digital-X-part/mediaid' target="blank">Mediaid Git Repo</a>
 </li>
 <li>Duration :  started - 2/07/2023 and currently working</li>
 
