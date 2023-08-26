@@ -9,7 +9,7 @@
 - 👀 I’m interested in learning how things work.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me **delwerhossain006@gmail.com**
+- 📫 How to reach me **<p><a href="mailto:delwerhossain006@gmail.com">delwerhossain006@gmail.com</a></p>**
 - profolio link - https://delwer.netlify.app/
 
 <!-- - 📄 Know about my experiences https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view -->
@@ -76,8 +76,8 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 <h3 align="left">Languages and Tools:</h3>
 <ul> 
 <li>✅ HTML, CSS, Bootstrap, Tailwind. Then JavaScript, DOM, API, ES6, debugging, dev tool, etc.</li> 
-<li>✅ React , NEXT.JS, React Router, hooks, context API, Tanstack query, recharts, etc.</li> 
-<li>✅ Server-side technology like Node, express, MongoDB. Build secure API using JWT tokens.</li>
+<li>✅ React, NEXT.JS, React Router, hooks, context API, Tanstack query, recharts, etc.</li> 
+<li>✅ Server-side technology like Node, Express, MongoDB. Build secure API using JWT tokens.</li>
 </ul>
     <p align="left">     
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
