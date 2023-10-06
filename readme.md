@@ -25,9 +25,11 @@
 
 <h3 align="left">MERN Stack Projects:</h3>
 <ul>
-   <li>Live link -  https://creative-design-school.web.app/     <br>   Code link - https://github.com/delwerhossain/creative-design-full-stack <br> Duration - 6 days </li> <br>
-    <li>Live link - https://client-toy-marketplace.web.app/  <br> Code link -  https://github.com/delwerhossain/Proc-Toyz <br> Duration - 4 days</li>   <br> 
-   <li>Live link -  https://client-food-chef.web.app/     <br>   Code link - https://github.com/delwerhossain/Treact-Cafe <br> Duration - 4 days </li> 
+   <li>Live link -  https://creative-design-school.web.app/     <br>   Code link - https://github.com/delwerhossain/creative-design-full-stack </li> <br>
+   <li>Live link -  http://bnfcorporate.com/     <br>   Code link - https://github.com/delwerhossain/bnfcorporate-react  </li> <br>
+   <li>Live link -  https://careers.anyquotes.co.uk/     <br>   Code link - https://github.com/delwerhossain/anyquotes-careers  </li> <br>
+    <li>Live link - https://client-toy-marketplace.web.app/  <br> Code link -  https://github.com/delwerhossain/Proc-Toyz </li> <br> 
+   <li>Live link -  https://client-food-chef.web.app/     <br>   Code link - https://github.com/delwerhossain/Treact-Cafe  </li> 
  
 </ul>
 
