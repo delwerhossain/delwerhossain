@@ -32,7 +32,7 @@
    <li>Live link -  https://client-food-chef.web.app/     <br>   Code link - https://github.com/delwerhossain/Treact-Cafe  </li> 
  
 </ul>
-
+<!-- 
 <h3 align="left">Laravel Projects:</h3>
 <ul>
    <li>https://sortservice.co.uk   </li>
@@ -58,7 +58,7 @@
     <li>https://pridecompare.com</li>   
     <li>https://prideinsurance.co.uk</li>   
     <li>https://jaboteokhobor.com  (wordpress)</li>   
-</ul>
+</ul> -->
 
 <div style="display: flex;
 flex-direction: column; 
