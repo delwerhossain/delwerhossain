@@ -9,7 +9,7 @@
 - 👀 I’m interested in learning how things work.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me **<p><a href="mailto:delwerhossain006@gmail.com">delwerhossain006@gmail.com</a></p> <p><a  target="_blank"  href="https://shorturl.at/ckwHT">Whatsapp me</a></p>**
+- 📫 How to reach me **<p><a href="mailto:delwerhossain006@gmail.com">delwerhossain006@gmail.com</a></p> <p><a  target="_blank"  href="https://wa.me/+8801886395730">Whatsapp me</a></p>**
 - profolio link - https://delwer.netlify.app/
 
 <!-- - 📄 Know about my experiences https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view -->
