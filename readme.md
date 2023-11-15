@@ -220,7 +220,7 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
       </a> 
     </p>
 
-<p style="margin-bottom: 20px;"><img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delwerhossain&theme=darcula" alt="DelwerHossain" /></p>
+<p style="margin-bottom: 20px;"><img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delwerhossain&theme=chartreuse_dark" alt="DelwerHossain" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delwerhossain&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="DelwerHossain" /></p>
 
