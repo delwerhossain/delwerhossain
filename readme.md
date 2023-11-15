@@ -222,11 +222,11 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 
 <p style="margin-bottom: 20px;"><img  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delwerhossain&theme=darcula" alt="DelwerHossain" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delwerhossain&show_icons=true&locale=en&layout=compact" alt="DelwerHossain" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delwerhossain&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="DelwerHossain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delwerhossain&show_icons=true&locale=en" alt="DelwerHossain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delwerhossain&show_icons=true&theme=chartreuse-dark&locale=en" alt="DelwerHossain" /></p>
    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delwerhossain&" alt="delwerhossain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delwerhossain&theme=chartreuse-dark" alt="delwerhossain" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delwerhossain&label=Profile%20views&color=0e75b6&style=flat" alt="delwerhossain" /> </p>
 
