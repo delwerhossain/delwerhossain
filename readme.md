@@ -14,12 +14,12 @@
 
 <!-- - 📄 Know about my experiences https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view -->
 
-<h3 align="left">NEXT.JS  Projects:</h3>
+<!-- <h3 align="left">NEXT.JS  Projects:</h3>
 <ul>
    <li>Live link -  <a href="mediaid-v2.vercel.app" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/137670111?s=200&v=4" height="25" width="30" />Mediaid BD E-commerce</a> </li>
    <li>Code link - <a href='https://github.com/Digital-X-part/mediaid' target="blank">Mediaid Git Repo</a>
 </li>
-<!-- <li>Duration :  started - 2/07/2023 and currently working</li> -->
+<li>Duration :  started - 2/07/2023 and currently working</li> 
 
 </ul>
 
@@ -32,7 +32,7 @@
    <li>Live link -  https://client-food-chef.web.app/     <br>   Code link - https://github.com/delwerhossain/Treact-Cafe  </li> 
  
 </ul>
-<!-- 
+
 <h3 align="left">Laravel Projects:</h3>
 <ul>
    <li>https://sortservice.co.uk   </li>
