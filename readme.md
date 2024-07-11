@@ -7,8 +7,7 @@
 
 - 👋 Hi, I’m @delwerhossain
 - 👀 I’m interested in learning how things work.
-- 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I love learning and exploring new things.
 - 📫 How to reach me **<p><a href="mailto:delwerhossain006@gmail.com">delwerhossain006@gmail.com</a></p> <p><a  target="_blank"  href="https://wa.me/+8801886395730">Whatsapp me</a></p>**
 - profolio link - https://delwer.netlify.app/
 
