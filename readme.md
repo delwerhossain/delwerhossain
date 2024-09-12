@@ -76,9 +76,22 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 
 <h3 align="left">Languages and Tools:</h3>
 <ul> 
-<li>✅ HTML, CSS, Bootstrap, Tailwind. Then JavaScript, DOM, API, ES6, debugging, dev tool, etc.</li> 
-<li>✅ React, NEXT.JS, React Router, hooks, context API, Tanstack query, recharts, etc.</li> 
-<li>✅ Server-side technology like Node, Express, MongoDB. Build secure API using JWT tokens.</li>
+<li> ✅ HTML, CSS, Bootstrap, Tailwind</li> 
+<li> ✅ JavaScript, TypeScript, DOM, API, ES6, debugging, dev tools</li> 
+<li> ✅ React, NEXT.js, NEXT Auth, React Router, hooks, context API, Tanstack query, Recharts</li> 
+<li> ✅ Server-side technology: Node.js, Express.js, Redis, MongoDB, Mongoose, MySQL. Building secure APIs using JWT tokens</li> 
+<li> ✅ Git, GitHub, Webpack, NPM, Yarn, pnpm</li> 
+<li> ✅ Material UI, Ant Design</li> 
+<li> ✅ Real-time communication: Socket.IO, SignalR</li> 
+<li> ✅ Deployment: Docker, Vercel, Netlify, Heroku</li> 
+<li> ✅ Testing: Jest, Cypress</li> 
+<li> ✅ API Development & Management: RESTful API, Postman</li>
+<li> ✅ SEO Strategies, Google Analytics Management</li>
+<li> ✅ Database Management: Mongoose, MySQL</li>
+<li> ✅ WordPress, WooCommerce (website creation and maintenance)</li>
+
+
+
 </ul>
     <p align="left">     
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
