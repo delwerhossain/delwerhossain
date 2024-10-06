@@ -87,8 +87,10 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 <li> ✅ Testing: Jest, Cypress</li> 
 <li> ✅ API Development & Management: RESTful API, Postman</li>
 <li> ✅ SEO Strategies, Google Analytics Management</li>
-<li> ✅ Database Management: Mongoose, MySQL</li>
+<li> ✅ Database Management: Mongoose, MySQL, SQLite</li>
 <li> ✅ WordPress, WooCommerce </li>
+<li> ✅ And More things  </li>
+
 
 
 
