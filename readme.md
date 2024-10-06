@@ -81,14 +81,14 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 <li> ✅ React, NEXT.js, NEXT Auth, React Router, hooks, context API, Tanstack query, Recharts</li> 
 <li> ✅ Server-side technology: Node.js, Express.js, Redis, MongoDB, Mongoose, MySQL. Building secure APIs using JWT tokens</li> 
 <li> ✅ Git, GitHub, Webpack, NPM, Yarn, pnpm</li> 
-<li> ✅ Material UI, Ant Design</li> 
+<li> ✅ Material UI, shadcn</li> 
 <li> ✅ Real-time communication: Socket.IO, SignalR</li> 
 <li> ✅ Deployment: Docker, Vercel, Netlify, Heroku</li> 
 <li> ✅ Testing: Jest, Cypress</li> 
 <li> ✅ API Development & Management: RESTful API, Postman</li>
 <li> ✅ SEO Strategies, Google Analytics Management</li>
 <li> ✅ Database Management: Mongoose, MySQL</li>
-<li> ✅ WordPress, WooCommerce (website creation and maintenance)</li>
+<li> ✅ WordPress, WooCommerce </li>
 
 
 
