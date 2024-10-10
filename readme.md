@@ -86,6 +86,7 @@ margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/206
 <li> ✅ Deployment: Docker, Vercel, Netlify, Heroku</li> 
 <li> ✅ Testing: Jest, Cypress</li> 
 <li> ✅ API Development & Management: RESTful API, Postman</li>
+<li> ✅ Prompt Engineering</li>
 <li> ✅ SEO Strategies, Google Analytics Management</li>
 <li> ✅ Database Management: Mongoose, MySQL, SQLite</li>
 <li> ✅ WordPress, WooCommerce </li>
