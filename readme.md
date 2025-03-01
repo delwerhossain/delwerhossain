@@ -1,71 +1,27 @@
-<h1 align="center">Hi , I'm Delwer Hossain</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+## Hey 👋, I'm Delwer Hossain!  
+<a href="https://www.linkedin.com/in/delwer-hossain"><img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/></a>
+<a href="https://www.facebook.com/the.delwer.hossain/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="18px"/>
+</a>  
 
-<!-- - 🔭 I’m currently looking for a remote job as a Full Stack Developer -->
+Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafting scalable and efficient web applications. With expertise in **MERN Stack, Laravel, and SaaS development**, I help businesses elevate their digital presence. I am constantly learning and exploring new technologies like **Cloud, AI, and Blockchain** to enhance my skill set. Let's build something great together! 🚀  
 
-<!-- - 👨‍💻 All of my projects are available at [https://delwer.netlify.app/](https://delwer.netlify.app/) -->
+<br/>  
 
-- 👋 Hi, I’m @delwerhossain
-- 👀 I’m interested in learning how things work.
-- 🌱 I love learning and exploring new things.
-- 📫 How to reach me **<p><a href="mailto:delwerhossain006@gmail.com">delwerhossain006@gmail.com</a></p> <p><a  target="_blank"  href="https://wa.me/+8801886395730">Whatsapp me</a></p>**
-- profolio link - https://delwer.netlify.app/
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>  
 
-<!-- - 📄 Know about my experiences https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view -->
+### 🧐 More About Me:  
 
-<!-- <h3 align="left">NEXT.JS  Projects:</h3>
-<ul>
-   <li>Live link -  <a href="mediaid-v2.vercel.app" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/137670111?s=200&v=4" height="25" width="30" />Mediaid BD E-commerce</a> </li>
-   <li>Code link - <a href='https://github.com/Digital-X-part/mediaid' target="blank">Mediaid Git Repo</a>
-</li>
-<li>Duration :  started - 2/07/2023 and currently working</li> 
+- 🔭 &nbsp; I’m currently working at **[B&F Corporate](http://bnfcorporate.com/)** as a **Full Stack Developer**.  
+- 🌱 &nbsp; Always learning—currently focused on **AI, Web3, and Cloud Technologies**.  
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/delwerhossain).  
+- 💬 &nbsp; Ask me anything related to web development, SaaS, or digital solutions—I’m happy to help!  
+- 📫 &nbsp; Reach me at **[delwerhossain006@gmail.com](mailto:delwerhossain006@gmail.com)**.  
+- 📱 &nbsp; Contact me on **[WhatsApp](https://wa.me/+8801886395730)**.  
+- 🌐 &nbsp; **Portfolio:** [Visit my portfolio](https://delwer.vercel.app/)  
+- 📝 &nbsp; **Resume:** [Download My Resume](https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view)  
 
-</ul>
 
-<h3 align="left">MERN Stack Projects:</h3>
-<ul>
-   <li>Live link -  https://creative-design-school.web.app/     <br>   Code link - https://github.com/delwerhossain/creative-design-full-stack </li> <br>
-   <li>Live link -  http://bnfcorporate.com/     <br>   Code link - https://github.com/delwerhossain/bnfcorporate-react  </li> <br>
-   <li>Live link -  https://careers.anyquotes.co.uk/     <br>   Code link - https://github.com/delwerhossain/anyquotes-careers  </li> <br>
-    <li>Live link - https://client-toy-marketplace.web.app/  <br> Code link -  https://github.com/delwerhossain/Proc-Toyz </li> <br> 
-   <li>Live link -  https://client-food-chef.web.app/     <br>   Code link - https://github.com/delwerhossain/Treact-Cafe  </li> 
- 
-</ul>
-
-<h3 align="left">Laravel Projects:</h3>
-<ul>
-   <li>https://sortservice.co.uk   </li>
-    <li>https://bristolinsure.com</li>   
-    <li>https://sortouts.co.uk </li>  
-    <li>https://rideinsurance.co.uk  </li> 
-    <li>https://alldriverinsurance.com</li>    
-    <li>https://allyourcars.com</li>
- 
-</ul>
-
-<h2 align="left">Maintenance Projects :</h2>
-<h3 align="left">UK Car Insurance websites -- </h3>
-<ul>
-    <li> https://anyquotes.co.uk/ </li> 
-    <li>https://sortinsurance.com</li>   
-    <li>https://broadinsurance.co.uk</li>   
-    <li>https://broadcompare.com</li>      
-    <li>https://getinsure.co.uk  </li> 
-    <li>https://eazyinsure.co.uk</li>   
-    <li>https://sortouts.com</li>   
-    <li>https://getinsurances.co.uk </li>  
-    <li>https://pridecompare.com</li>   
-    <li>https://prideinsurance.co.uk</li>   
-    <li>https://jaboteokhobor.com  (wordpress)</li>   
-</ul> -->
-
-<div style="display: flex;
-flex-direction: column; 
-align-items: center;
-justify-content: center;">
-<img style="border-radius: 15px; 
-margin-top: 20px;  margin-bottom: 50px;" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif"  >
-<div/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
