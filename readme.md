@@ -12,7 +12,7 @@ Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafti
 
 ### 🧐 More About Me:  
 
-- 🔭 &nbsp; I’m currently working at **[B&F Corporate](http://bnfcorporate.com/)** as a **Full Stack Developer**.  
+- 🔭 &nbsp; I’m currently working at **[B&F Corporate](http://bnfcorporate.com/)** as a **IT Manager**.  
 - 🌱 &nbsp; Always learning—currently focused on **AI, Web3, and Cloud Technologies**.  
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/delwerhossain).  
 - 💬 &nbsp; Ask me anything related to web development, SaaS, or digital solutions—I’m happy to help!  
