@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="18px"/>
 </a>  
 
-Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafting scalable and efficient web applications. With expertise in **MERN Stack, Laravel, and SaaS development**, I help businesses elevate their digital presence. I am constantly learning and exploring new technologies like **Cloud, AI, and Blockchain** to enhance my skill set. Let's build something great together! 🚀  
+Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafting scalable and efficient web applications. With expertise in **MERN Stack, Laravel, and SaaS development**, I help businesses elevate their digital presence. I am constantly learning and exploring new technologies like **Cloud & AI** to enhance my skill set. Let's build something great together! 🚀  
 
 <br/>  
 
@@ -13,7 +13,7 @@ Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafti
 ### 🧐 More About Me:  
 
 - 🔭 &nbsp; I’m currently working at **[B&F Corporate](http://bnfcorporate.com/)** as a **IT Manager**.  
-- 🌱 &nbsp; Always learning—currently focused on **AI, Web3, and Cloud Technologies**.  
+- 🌱 &nbsp; Always learning—currently focused on **AI and Cloud Technologies**.  
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/delwerhossain).  
 - 💬 &nbsp; Ask me anything related to web development, SaaS, or digital solutions—I’m happy to help!  
 - 📫 &nbsp; Reach me at **[delwerhossain006@gmail.com](mailto:delwerhossain006@gmail.com)**.  
