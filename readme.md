@@ -18,8 +18,6 @@ Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafti
 - 💬 &nbsp; Ask me anything related to web development, SaaS, or digital solutions—I’m happy to help!  
 - 📫 &nbsp; Reach me at **[delwerhossain006@gmail.com](mailto:delwerhossain006@gmail.com)**.  
 - 📱 &nbsp; Contact me on **[WhatsApp](https://wa.me/+8801886395730)**.  
-- 🌐 &nbsp; **Portfolio:** [Visit my portfolio](https://delwer.vercel.app/)  
-- 📝 &nbsp; **Resume:** [Download My Resume](https://drive.google.com/file/d/1V6ACaPnMEsLr52XOmoeJ5MCfEUy3heF-/view)  
 
 
 
