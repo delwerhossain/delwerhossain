@@ -8,7 +8,8 @@ Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafti
 
 <br/>  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>  
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" style="border-radius: 15px;" /
+
 
 ### 🧐 More About Me:  
 
