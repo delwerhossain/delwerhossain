@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="18px"/>
 </a>  
 
-Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafting scalable and efficient web applications. With expertise in **MERN Stack, Laravel, and SaaS development**, I help businesses elevate their digital presence. I am constantly learning and exploring new technologies like **Cloud & AI** to enhance my skill set. Let's build something great together! 🚀  
+Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafting scalable and efficient web applications. With expertise in **MERN Stack, Next.js , Express.js, and SaaS development**, I help businesses elevate their digital presence. I am constantly learning and exploring new technologies like **Cloud & AI** to enhance my skill set. Let's build something great together! 🚀  
 
 <br/>  
 
