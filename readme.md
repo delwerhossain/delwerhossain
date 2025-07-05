@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Delwer Hossain!  
 <a href="https://www.linkedin.com/in/delwer-hossain"><img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/></a>
-<a href="https://www.facebook.com/the.delwer.hossain/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.facebook.com/the.delwer.hossain/" target="_blank"  height="18px" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="18px"/>
 </a>  
 
