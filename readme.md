@@ -12,16 +12,29 @@ Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafti
 
 
 
-### 🧐 More About Me:  
 
-- 🔭 &nbsp; I’m currently working at **[B&F Corporate](http://bnfcorporate.com/)** as a **IT Manager**.  
-- 🌱 &nbsp; Always learning—currently focused on **AI and Cloud Technologies**.  
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/delwerhossain).  
-- 💬 &nbsp; Ask me anything related to web development, SaaS, or digital solutions—I’m happy to help!  
-- 📫 &nbsp; Reach me at **[delwerhossain006@gmail.com](mailto:delwerhossain006@gmail.com)**.  
-- 📱 &nbsp; Contact me on **[WhatsApp](https://wa.me/+8801886395730)**.  
+### 🧐 More About Me
 
+- 🔭  Currently leading the tech team at **B&F Corporate**  
+- 🌱  Diving deeper into **AI & Cloud** architectures  
+- 👨🏻‍💻  Most of my work lives on [GitHub](https://github.com/delwerhossain)  
+- 💬  Ask me anything about web dev, SaaS, e-commerce, or digital growth  
+- 📫  Reach me at **[delwerhossain006@gmail.com](mailto:delwerhossain006@gmail.com)**  
+- 📱  Ping me on **[WhatsApp](https://wa.me/+8801886395730)**  
 
+---
+
+### 💡 What I Do
+
+|  |  |
+| --- | --- |
+| **Web & App Development** | Pixel-perfect PWAs & SPAs (Next.js + React) |
+| **Scalable Architecture** | REST APIs, micro-services, CI/CD, cloud hosting |
+| **E-commerce Builds** | Custom storefronts, admin dashboards, secure payment & shipping |
+| **Digital Marketing & SEO** | Data-driven campaigns, analytics pipelines |
+| **Startup Consulting** | Road-mapping, MVP scoping, growth strategy |
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
