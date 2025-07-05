@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Delwer Hossain!  
 
-Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafting scalable and efficient web applications. With expertise in **MERN Stack, Next.js , Express.js, and SaaS development**, I help businesses elevate their digital presence. I am constantly learning and exploring new technologies like **Cloud & AI** to enhance my skill set. Let's build something great together! 🚀  
+Hi there! I'm a **Full-Stack Developer** and current **IT Manager at [B&F Corporate](https://bnfcorporate.com/)**. My toolkit includes **Next.js 15, React, Express.js, MongoDB, and the broader MERN stack**. Since my very first “Hello, World!” in 2018, I've been obsessed with turning business bottlenecks into elegant, scalable software. I’ve shipped e-commerce platforms like **Rupomoti** (jewellery gifting) and **QalbBox** (curated gifts), a micro-services suite at **Scable Software**, and an AI chatbot framework now handling 68 % of support tickets for three retailers.  
 
+Let’s build something great together 🚀  
 <br/>  
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" style="border-radius: 15px;" />
@@ -21,7 +22,6 @@ Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafti
 ---
 
 ### 💡 What I Do
-
 |  |  |
 | --- | --- |
 | **Web & App Development** | Pixel-perfect PWAs & SPAs (Next.js + React) |
