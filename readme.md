@@ -1,8 +1,5 @@
 ## Hey 👋, I'm Delwer Hossain!  
 <a href="https://www.linkedin.com/in/delwer-hossain"><img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/></a>
-<a href="https://www.facebook.com/the.delwer.hossain/" target="_blank"  height="18px" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="18px"/>
-</a>  
 
 Hi there! I'm Delwer Hossain, a **Full Stack Developer** passionate about crafting scalable and efficient web applications. With expertise in **MERN Stack, Next.js , Express.js, and SaaS development**, I help businesses elevate their digital presence. I am constantly learning and exploring new technologies like **Cloud & AI** to enhance my skill set. Let's build something great together! 🚀  
 
