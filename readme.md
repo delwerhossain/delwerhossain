@@ -40,13 +40,13 @@
 
 
 ## Toolbox
-- **Frontend:** Next.js 15, React, TypeScript, Tailwind, shadcn, MUI, TanStack Query  
-- **Backend:** Node, Express, JWT, WebSockets (Socket.IO/SignalR), Redis  
-- **Data:** MongoDB, Mongoose, MySQL/SQLite, vector DBs for RAG  
-- **Automation/AI:** OpenAI/Claude, prompt engineering, retrieval workflows  
-- **Ops:** Vercel, Netlify, DNS, monitoring, release hygiene  
-- **Growth:** SEO, analytics pipelines, attribution & dashboards  
-- **DX:** Git/GitHub, Postman, VS Code, Chrome DevTools, Figma
+- **Frontend:** Next.js 15, React, TypeScript, Tailwind, shadcn, MUI, TanStack Query, etc.  
+- **Backend:** Node, Express, JWT, WebSockets (Socket.IO/SignalR), Redis, etc.  
+- **Data:** MongoDB, Mongoose, Prisma, PostgreSQL, MySQL/SQLite, vector DBs for RAG  
+- **Automation/AI:** OpenAI/Claude, prompt engineering, context engineering, retrieval workflows, etc.  
+- **Ops:** Vercel, Netlify, cPanel, DNS, monitoring, release hygiene, etc.  
+- **Growth:** SEO, analytics pipelines, attribution & dashboards, etc.  
+- **DX:** Git/GitHub, Postman, VS Code, Chrome DevTools, Figma, etc.
 
 ---
 
