@@ -9,7 +9,6 @@
 ### 🧐 More About Me
 - 👨🏻‍💼 IT Manager @ **B&F Corporate**
 - 🛠️ Founder @ **Web Cloudor**
-- 🤝 Co-Founder @ **QalbBox**
 - 📫 **[E-mail](mailto:delwerhossain006@gmail.com)**
 - 📱 **[WhatsApp](https://wa.me/+8801886395730)**
 
