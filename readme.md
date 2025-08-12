@@ -23,7 +23,7 @@
 ---
 
 ### 💡 What I Do
-**Building Fast, Custom Websites | Dashboards • Mobile-First • AI Tools**
+**Helping Businesses Launch Smarter with Custom Tech Solutions | E-commerce • Dashboards • Mobile-First • AI Tools • Ai Automation**
 
 |  |  |
 | --- | --- |
